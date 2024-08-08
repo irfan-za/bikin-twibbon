@@ -8,4 +8,4 @@
 
 <h2>Demo</h2>
 
-[https://irfan-za.github.io/bikin-twibbon](https://irfan-za.github.io/bikin-twibbon)
+[https://bikin-twibbon.vercel.app](https://bikin-twibbon.vercel.app)
